@@ -100,7 +100,7 @@ The backend is responsible for handling requests, storing data, and ensuring smo
 10. ***Back-End Developers Love Dark Mode:*** *Most back-end developers* *prefer dark mode on their editors, it’s easier on the eyes when working long hours!*
     
 
-Feel free to share your more fun facts in the comments! 😊
+Feel free to share more fun facts in the comments! 😊
 
 ---
 
