@@ -54,7 +54,7 @@ The frontend is what users interact with directly. It includes,
 
 **Example:** When you visit a website, the layout, colors, fonts, and animations are all part of the frontend, built using HTML, CSS, and JavaScript.
 
-*I can't be the only one who comes up with fun names for programming things!* [*What creative names or analogies do you use for programming concepts*](https://hashnode.com/preview/679b8674eaf7f70a33d8e6a9#comments)*❓*
+*I can't be the only one who comes up with fun names for programming things!* *What creative names or analogies do you use for programming concepts? Share in the comments* 😊.
 
 ### **Backend (Server-Side Development)**
 
